@@ -13,7 +13,7 @@ ms.date: [mm/dd/yyyy]
 
 # Basic prompt engineering in .NET
 
-This article explains basic GPT prompt engineering for .NET, including the Completion API and the Chat Completion API. 
+This article explains how GPT prompt engineering works in .NET, including the Completion API and the Chat Completion API. 
 
 GPT models from OpenAI are prompt-based: they respond to user input text (a prompt) with the most likely series of words to follow (a completion). For example, in response to the prompt "The president who served the shortest term was " these models might output the completion "Pedro Lascurain". 
 
